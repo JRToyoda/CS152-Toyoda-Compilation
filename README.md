@@ -1,4 +1,4 @@
-![DaFruTo Logo](/Part%201/DaFruto_Logo.png)
+![DaFruTo Logo](/Part%201/DaFruTo_Logo.png)
 
 ### CS152 - Fruto Compilation
 ---
