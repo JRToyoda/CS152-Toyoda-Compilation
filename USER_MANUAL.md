@@ -11,7 +11,7 @@ Once you have created a Figma account, you can view the prototype through the fo
 ## Additional Info
 Below is a breakdown of how each folder corresponds to the prototype requirements:
 
-- **Certificate**: Contains the certificate Jhon Lloyd Dayuno received from the required Coursera course.
+- **Certificate**: Contains the certificate Jaen Rafael Toyoda received from the required Coursera course.
 - **Part 1**: Includes major assets such as team logos, the app presentation, and proposal.
 - **Part 2**: Contains design proposals, base assets, alternatives, wireframes, and app scenarios.
 - **Part 3**: Features the final mockup/prototype, detailed app description, survey results, and their interpretation.
